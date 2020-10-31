@@ -1,0 +1,29 @@
+To join the server complete these simple tasks:
+
+1. Download Forge Client
+   - Run the "forge-1.16.3-34.1.0-installer.jar" file
+   - Click Ok
+
+2. Run Minecraft 
+   - Press Play 
+   - Quit the Game
+   - Run Minecraft Again, then
+   - In the Minecraft Launcher, go to the bottom left corner and press the drop down button, then choose the forge option 
+	(If the forge option is not there, restart Minecraft and start the game again)
+
+3. Install Mods
+   - In the Main Menu of Minecraft, Click the button for mods, then click open mods folder
+   - Drag the mods.zip file into the minecraft mods folder 
+   - Right Click the file, Extract All
+   - Change 'C:\Users\user\AppData\Roaming\.minecraft\mods\mods' to 'C:\Users\user\AppData\Roaming\.minecraft\mods'
+   - Then Click Extract
+
+4. Join the Server
+   - Restart Minecraft
+   - Go to Multiplayer 
+   - Click Add Server
+   - In the Server Address Text Box, Type: 45.82.73.43
+   - Create Server and Join 
+         (There might be a weird error during the load, but just join the server again and it should work)
+	 (You can join the server from now on without these steps)
+         ((To change back to normal minecraft, change to directory of the game from forge to latest release in the launcher before the game))
