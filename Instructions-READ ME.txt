@@ -13,10 +13,7 @@ To join the server complete these simple tasks:
 
 3. Install Mods
    - In the Main Menu of Minecraft, Click the button for mods, then click open mods folder
-   - Drag the mods.zip file into the minecraft mods folder 
-   - Right Click the file, Extract All
-   - Change 'C:\Users\user\AppData\Roaming\.minecraft\mods\mods' to 'C:\Users\user\AppData\Roaming\.minecraft\mods'
-   - Then Click Extract
+   - Go into the mods folder and drag all of the jar files into the mods folder for minecraft
 
 4. Join the Server
    - Restart Minecraft
